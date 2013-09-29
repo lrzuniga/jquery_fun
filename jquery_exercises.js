@@ -80,6 +80,10 @@
 // Make "#target" double size
 // Hint: you can use .css, .width and .height
 
+  // $(document).ready(function(){
+  //   $("#target").css({"width": 300, "height": 200});
+  // });
+
 // EXERCISE: Empty Elements
 // Hint: you can use .empty
 
