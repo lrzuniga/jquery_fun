@@ -23,7 +23,9 @@
 // Create a clone of the span in "#target" and position it under the origin.
 // Hint: you can use .clone and .insertAfter
 
-    
+    $(document).ready(function(){
+      $("#target").children("span").clone().insertAfter("#target span");
+    });
 
 // EXERCISE: Use Filter
 
