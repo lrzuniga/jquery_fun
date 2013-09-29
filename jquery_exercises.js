@@ -51,6 +51,12 @@
 // Uncheck all checkboxes using jQuery
 // Hint: you will have to select the input and can use .removeAttr
 
+    // $(document).ready(function(){
+    //   $('input').filter(':checkbox').prop('checked',false);
+    // });
+
+    //Note, property method is more appropriate given we want to change the property of the checkbox, not the attribute (see: http://goo.gl/iPiwMB)
+
 // EXERCISE: Change Parent
 
 // Move "#child" from "#parent1" to "#parent2"
