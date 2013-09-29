@@ -1,11 +1,17 @@
 // SOLUTIONS GO BELOW EACH EXERCISE
 
-
-
 // EXERCISE: Change Background
 
 // Change the background color of '#target' by script. 
 // Hint: you can use .css
+
+$(document).ready(function(){
+  $('#target').css({'background-color': 'red'});
+})
+
+
+
+
 
 // EXERCISE: Change Parent
 
