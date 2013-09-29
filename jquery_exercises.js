@@ -98,6 +98,8 @@
 // Show Alert with 1 second delay (Use "setTimeout")
 // Hint: you can use .setTimeout and alert
 
+    // setTimeout("alert('Delay')",1000);
+
 // EXERCISE: Count
 
 // Show the number of children in an alert
