@@ -89,6 +89,10 @@
 
 // Remove all children and text of "#target"
 
+  // $(document).ready(function(){
+  //   $("#target").children().empty();
+  // });
+
 // EXERCISE: Delay
 
 // Show Alert with 1 second delay (Use "setTimeout")
